@@ -1,5 +1,3 @@
-# Areli Sarai García Medina | 20310380
-# Independencia Codicional
 
 # Queremos tirar dos dados con resultados independientes (variable 'a' y 'b'), pero que al tener una variable extra 'c' se hagan dependientes
 
