@@ -1,8 +1,4 @@
-"""
-Created on Thu May 4 2023
 
-@author: Adan Alvarez.
-"""
 
 # Probabilidad de ser hombre
 p_hombre = 0.4
